@@ -1,0 +1,15 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Aluno {
+  id                 String   @id @default(cuid()) @map("_id")
+  nome               String
+  RA                 String   @unique
+  data_de_nascimento DateTime
+}
