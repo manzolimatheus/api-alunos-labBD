@@ -5,26 +5,27 @@ Trabalho de laboratório de banco de dados do 5º semestre @ 2042
 ## Integrantes - Grupo Roxo
 
 - Adryan (LIDER)
-- Tifanny
-- Luana
-- Camila
-- Bruno
-- Lucas
-- Joao
-- Eric
-- Bonatti
+- Bruno Ferreira
 - Caio
-- Luizinho
-- Luidi
-- Rubia
-- Higor
-- Matheus Biazotto
-- Thiago
+- Camila
+- Elton
+- Eric
+- Fábio
 - Guilherme
-- Matheus Manzoli
-- Raine
+- Higor
+- João Victor Martins
 - Larissa
-- Fabio
+- Luana
+- Lucas
+- Luigi
+- Luis Gustavo
+- Luiz F. Bonatti
+- Matheus Biazotto
+- Matheus Manzoli
+- Raíne
+- Rubia
+- Tiago Ferreira
+- Tifanny
 
 ## Como executar?
 
